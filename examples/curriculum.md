@@ -3,7 +3,7 @@
 ## A Multi-Year Journey Toward an Integrated Ethical Life
 
 **For**: Greg (Age 63, Retired Consultant, Buddhist Practitioner, Lifelong Learner)  
-**Duration**: 2-3 years (50 episodes, ~30 minutes each)  
+**Duration**: 2-6 months (50 episodes, ~30 minutes each)  
 **Method**: Character-based Socratic dialogue using The Good Place characters  
 **Goal**: Transform abstract philosophy into lived wisdom â€” not collecting theories, but articulating how Greg actually thinks about morality, meaning, identity, relationships, and acceptance
 
@@ -35,10 +35,9 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 
 ### Current Life Context
 
-- Intensive care work supporting son Paul's recovery from cancer and hip surgery (PTSD for all)
-- Supporting daughter Laurie's ongoing depression management
+- Supporting both kids health challenges
 - Married to Bonnie for 30+ years (his "North Star")
-- Active on three boards: OCBC Buddhist temple (30 years), Everyday Buddhist, Tustin Pickleball Association
+- Active volunteer with multiple organizations
 - Competitive pickleball player (current artistic practice)
 - Wrestling with privilege, justice, capacity for care, and mortality
 
@@ -77,13 +76,13 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 1: The Trolley Problem**
 - Characters: Chidi, Eleanor, Michael
 - Concepts: Consequentialism, deontology, moral dilemmas
-- Personal Application: Who gets care when capacity is limited
+- Personal Application: Caring with limited capacity
 - Homework: Notice daily ethical decisions
 
 **Episode 2: Contractualism 101**
 - Characters: Chidi, Tahani, Michael
 - Concepts: Scanlon's "What We Owe to Each Other," justification to others
-- Personal Application: Board decisions, community commitments
+- Personal Application: Volunteer decisions, community commitments
 - Homework: Practice "could I justify this?" with actual choices
 
 **Episode 3: Virtue Ethics with Aristotle**
@@ -95,7 +94,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 4: The Veil of Ignorance**
 - Characters: Eleanor, Tahani, Bad Janet, Chidi, Michael
 - Concepts: Rawls, justice, privilege, original position
-- Personal Application: Arthur Andersen privilege, board service equity
+- Personal Application: Professional experience and privilege, service equity
 - Homework: Examine one area of unearned advantage
 
 **Episode 5: Utilitarianism vs. Everything Else**
@@ -113,13 +112,13 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 7: The Ethics of Care**
 - Characters: Tahani, Eleanor, Janet
 - Concepts: Feminist ethics, relationships first, context matters
-- Personal Application: Paul's recovery care, marriage, temple community
+- Personal Application: Kids recovery care, marriage, temple community
 - Homework: Map your actual care networks
 
 **Episode 8: Moral Particularism**
 - Characters: Chidi, Michael, Eleanor, Janet
 - Concepts: Context all the way down, no universal rules
-- Personal Application: Why each family/board situation differs
+- Personal Application: Why each family/volunteer situation differs
 - Homework: Find case where "rule" didn't apply
 
 **Episode 9: Ubuntu Philosophy**
@@ -149,7 +148,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 11: The Ship of Theseus**
 - Concepts: Personal identity over time, what persists through change
 - Key Questions: Are you the same person you were at 30? At marriage? What makes you "you"?
-- Personal Application: Greg at 63 vs. Greg at Arthur Andersen, continuity through Paul's crisis
+- Personal Application: Greg at 63 vs. Greg at Arthur Andersen, continuity through kids crisis
 - Philosophical Sources: Locke, Parfit, Buddhist impermanence
 
 **Episode 12: Existentialism and Authenticity**
@@ -173,7 +172,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 15: Heidegger's Being-Toward-Death**
 - Concepts: Authentic existence, mortality awareness, dasein
 - Key Questions: How does awareness of death shape how you live? What matters facing mortality?
-- Personal Application: Age 63, Paul's cancer, finite time, legacy questions
+- Personal Application: Age 63, kids illnesses, finite time, legacy questions
 - Philosophical Sources: Heidegger's Being and Time
 
 **Episode 16: The Divided Self**
@@ -191,7 +190,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 18: Imposter Syndrome Philosophy**
 - Concepts: Authenticity, self-doubt, earned vs. unearned confidence
 - Key Questions: When is doubt wisdom? When is it obstacle? Who decides expertise?
-- Personal Application: Board leadership, learning philosophy at 63, teaching others
+- Personal Application: Volunteer leadership, learning philosophy at 63, teaching others
 - Philosophical Sources: Phenomenology of expertise, social epistemology
 
 **Episode 19: The Examined Life**
@@ -227,7 +226,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 23: Compassion vs. Empathy**
 - Concepts: Boundaries in caring, empathy fatigue, compassion as sustainable
 - Key Questions: How to care without depleting? What's difference between empathy and compassion?
-- Personal Application: Paul's recovery care, avoiding burnout, healthy boundaries
+- Personal Application: Kidss recovery care, avoiding burnout, healthy boundaries
 - Philosophical Sources: Buddhist compassion, Paul Bloom's "Against Empathy"
 
 **Episode 24: Forgiveness Philosophy**
@@ -239,7 +238,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 25: The Ethics of Honesty**
 - Concepts: Truth-telling, radical honesty, necessary lies, Kant vs. care
 - Key Questions: When does honesty harm? What's owed in transparency?
-- Personal Application: Honesty with Bonnie, with Paul about prognosis, on boards
+- Personal Application: Honesty with Bonnie, with kids prognosis, volunteer efforts
 - Philosophical Sources: Kant on lying, care ethics, virtue of honesty
 
 **Episode 26: Loneliness in a Connected World**
@@ -257,13 +256,13 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 28: The Art of Apology**
 - Concepts: Making amends, repair, accountability
 - Key Questions: What makes apology genuine? When is it too late? What's owed?
-- Personal Application: Repairing with Paul/Laurie, marriage repair, board conflicts
+- Personal Application: Repairing with kids, marriage repair, volunteer conflicts
 - Philosophical Sources: Ethics of apology, restorative justice, moral repair
 
 **Episode 29: Bearing Witness**
 - Concepts: The gift of seeing and being seen, testimony, presence
 - Key Questions: What does it mean to truly see someone? To be witnessed?
-- Personal Application: Portrait photography, temple presence, Paul's suffering
+- Personal Application: Portrait photography, temple presence, kids suffering
 - Cross-Domain: Integration with Art curriculum (photography as witnessing)
 
 **Episode 30: Integration â€” Your Relational Practice**
@@ -287,19 +286,19 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 32: Viktor Frankl's Logotherapy**
 - Concepts: Finding meaning in suffering, will to meaning, choice
 - Key Questions: Can suffering be meaningful? How to find purpose in pain?
-- Personal Application: Paul's cancer, family crisis as transformative, growth through difficulty
+- Personal Application: Kids illnesses, family crisis as transformative, growth through difficulty
 - Philosophical Sources: Frankl's "Man's Search for Meaning," existential therapy
 
 **Episode 33: The Craft of Life**
 - Concepts: Meaning through making and doing, craftsman's satisfaction
 - Key Questions: What do you make? How does creating give meaning?
-- Personal Application: Pickleball mastery, photography, board work, this learning project
+- Personal Application: Pickleball mastery, photography, volunteer work, this learning project
 - Cross-Domain: Integration with Art curriculum (making as meaning)
 
 **Episode 34: Simone de Beauvoir on Ambiguity**
 - Concepts: Living with uncertainty, freedom and responsibility, situated ethics
 - Key Questions: How to act when nothing's certain? Embrace ambiguity or resist?
-- Personal Application: Board decisions with incomplete info, parenting adults, aging
+- Personal Application: Volunteer decisions with incomplete info, parenting adults, aging
 - Philosophical Sources: de Beauvoir's "Ethics of Ambiguity"
 
 **Episode 35: The Practice of Attention**
@@ -317,7 +316,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 37: The Paradox of Legacy**
 - Concepts: What we leave behind, impact, immortality projects
 - Key Questions: What do you want to leave? Does it matter? For whom?
-- Personal Application: Children, temple, Everyday Buddhist, this learning documentation
+- Personal Application: Children, temple, this learning documentation
 - Philosophical Sources: Existential anxiety, terror management theory, generativity
 
 **Episode 38: Small Acts, Big Meaning**
@@ -347,7 +346,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 41: Stoicism and What We Control**
 - Concepts: Epictetus, Marcus Aurelius, dichotomy of control
 - Key Questions: What can you actually control? What must you accept?
-- Personal Application: Paul's health outcomes, aging body, others' choices
+- Personal Application: Kids health outcomes, aging body, others' choices
 - Philosophical Sources: Stoic philosophy, serenity prayer, Buddhist equanimity
 
 **Episode 42: Impermanence in All Things**
@@ -359,7 +358,7 @@ This philosophical curriculum feeds and is fed by the other two domains, creatin
 **Episode 43: The Good Enough Life**
 - Concepts: Letting go of perfection, satisficing, realistic ideals
 - Key Questions: When is good enough actually good? What's cost of perfection?
-- Personal Application: Parenting guilt, board work limits, finite capacity
+- Personal Application: Parenting guilt, volunteer work limits, finite capacity
 - Philosophical Sources: Winnicott's "good enough mother," satisficing theory
 
 **Episode 44: Grief as Love**
@@ -428,67 +427,19 @@ Through Episodes 1-10, these productive tensions emerged as ongoing dynamics to 
 Every episode connects abstract philosophy to Greg's actual life circumstances:
 
 ### Marriage with Bonnie
-- 30+ years of partnership
-- "North Star" relationship
-- Practicing together (pickleball, temple, life)
-- Honest communication and mutual support
-- Care ethics in action
+- [Each of these sections has 6 or so bullet points.  I removed the details for my family's privacy.]
 
-### Parenting Paul and Laurie
-- Supporting Paul's cancer recovery and hip surgery
-- PTSD for entire family
-- Supporting Laurie's depression management
-- Parenting adult children
-- Holding boundaries while offering care
-- Accepting limits of what you can do for them
+### Parenting 
 
-### OCBC Temple Community
-- 30 years of Shin Buddhist practice
-- Ubuntu island of belonging
-- Sangha relationships
-- Board service and leadership
-- Gratitude practice (nembutsu)
-- Bombu (foolish being) acceptance
+### Temple Community
 
 ### Pickleball at Court 10
-- Competitive play with Bonnie
-- Current artistic practice
-- Flow states and embodied presence
-- Community of practice
-- Mastery and humility together
-- Ubuntu island #3
 
-### Board Service
-- OCBC (Buddhist temple, 30 years)
-- Everyday Buddhist (Buddhist education innovation)
-- Tustin Pickleball Association
-- Measured engagement vs. unlimited demand
-- Justice and care in leadership
-- Contextual decision-making
-
-### Wrestling with Privilege
-- Arthur Andersen partnership wealth
-- White, male, educated advantages
-- Veil of ignorance application
-- Justice vs. enjoying comfort
-- Using privilege responsibly
-- Honest acknowledgment without paralysis
+### Volunteer Service
 
 ### Art and Creative Expression
-- Former photographer (portrait work)
-- Watts Atelier training
-- Preference for transformative over representational
-- Finding artistic voice
-- Pickleball as current creative practice
-- Disciplined investigation leading to emotional expression
 
 ### Mortality and Aging
-- 63 years old
-- Facing finite time
-- Paul's cancer as memento mori
-- Legacy questions
-- What matters most now
-- Being-toward-death awareness
 
 ---
 
@@ -531,83 +482,6 @@ Some contradictions don't need resolution â€” they're spaces to inhabit wit
 
 ### Both Intellectual Rigor AND Emotional Engagement
 Philosophy engages head and heart together. Chidi brings intellectual precision, Eleanor brings emotional honesty, Jason brings embodied wisdom, Tahani brings graceful vulnerability. All modes of knowing contribute to genuine understanding.
-
----
-
-## CROSS-DOMAIN INTEGRATION POINTS
-
-This philosophical curriculum feeds and is fed by Greg's other learning domains:
-
-### Integration with Buddhism Curriculum
-
-**Episode 14 (Anatta/No-Self)** â†”ï¸ **Bombu (Foolish Being) Nature**
-- Buddhist teaching of non-self meets acceptance of human limitation
-- Impermanence and lack of fixed identity
-- Other-Power when self-power insufficient
-
-**Episode 42 (Impermanence in All Things)** â†”ï¸ **Anicca Teaching**
-- Buddhist core teaching on constant change
-- Pure Land while alive (finding peace in impermanence)
-- Clinging causes suffering; letting go enables freedom
-
-**Episode 47 (Gratitude as Practice)** â†”ï¸ **Nembutsu Practice**
-- Gratitude for life received, not earned
-- Nembutsu as acknowledgment of dependence
-- Shin Buddhism's radical acceptance and appreciation
-
-**Episode 41 (Stoicism)** â†”ï¸ **Buddhist Equanimity**
-- What we control vs. what we must accept
-- Serenity in face of difficulty
-- Letting go of attachment to outcomes
-
-**Episode 29 (Bearing Witness)** â†”ï¸ **Mindfulness Practice**
-- Seeing clearly without judgment
-- Presence to suffering
-- Compassionate attention
-
-### Integration with Art Curriculum
-
-**Episode 17 (Flow States)** â†”ï¸ **Artistic Presence and Pickleball**
-- Losing self in creative practice
-- Optimal experience in making/playing
-- When discipline meets spontaneity
-
-**Episode 29 (Bearing Witness)** â†”ï¸ **Portrait Photography**
-- Seeing and being seen
-- Photography as witnessing human condition
-- Art as attention and testimony
-
-**Episode 35 (Practice of Attention)** â†”ï¸ **Cherished Moments Practice**
-- Simone Weil: attention as love
-- Seeing what's actually here
-- Art as disciplined looking
-
-**Episode 33 (Craft of Life)** â†”ï¸ **Making as Meaning**
-- Meaning through creating
-- Craftsman's satisfaction
-- Disciplined investigation leads to expression
-
-**Episode 45 (Wabi-Sabi)** â†”ï¸ **Aesthetic Acceptance**
-- Beauty in imperfection and transience
-- Japanese aesthetic philosophy
-- Bombu nature as wabi-sabi selfhood
-
-**Episode 48 (Eternal Return)** â†”ï¸ **Affirmation of This Life**
-- Would you choose this exact life again?
-- Accepting all of it, including difficulty
-- Buddhist acceptance meets Nietzschean affirmation
-
-### Recurring Cross-Domain Themes
-
-**Acceptance of Limitation**: Bombu nature (Buddhism), finite capacity (Ethics), foolish being (all domains)
-
-**Presence and Flow**: Mindfulness (Buddhism), flow states (Art), attention (Philosophy)
-
-**Creating Space for Others**: Compassionate witnessing (Buddhism), portrait seeing (Art), bearing witness (Philosophy)
-
-**Honest Attention to What Is**: Clear seeing (Buddhism), artistic observation (Art), particularist ethics (Philosophy)
-
-**Integration of Multiple Ways of Knowing**: Head, heart, and hand all contribute; intellectual, emotional, embodied wisdom
 
 ---
 
@@ -690,26 +564,6 @@ This philosophical curriculum feeds and is fed by Greg's other learning domains:
 - Acceptance and limitation
 - Practice and discipline
 - Presence and flow
-
-### For Sharing
-
-**Episodes Demonstrating Learning Approach**: To share with Everyday Buddhist board and wider community
-- How character-based dialogue makes philosophy accessible
-- Personal application as transformation
-- AI as educational innovation
-
-**Framework Statements**: To discuss with Bonnie, share with boards
-- Personal ethical framework (Episode 10) âœ“
-- Evolving understanding of self (Episode 20)
-- Relational practice framework (Episode 30)
-- Meaning and purpose statement (Episode 40)
-- Final integrated philosophy (Episode 50)
-
-**Integration Insights for Board Service**: Applicable to OCBC, Everyday Buddhist, Pickleball Association
-- Contextual decision-making
-- Justice and care in leadership
-- Building communities of practice
-- Innovative educational approaches
 
 ---
 
@@ -960,15 +814,6 @@ Philosophy isn't something to learn.
 
 ---
 
-*This curriculum artifact will evolve as the learning journey continues. Updates will reflect new insights, emerging themes, and Greg's ongoing transformation through philosophical practice.*
-
-**Current Version**: February 2026  
-**Episodes Completed**: 1-10  
-**Next Episode**: 11 (The Ship of Theseus)  
-**Estimated Completion**: 2027-2028
-
----
-
 ## ACKNOWLEDGMENTS
 
 **The Good Place** created by Michael Schur â€” for making philosophy accessible, joyful, and transformative
@@ -977,13 +822,9 @@ Philosophy isn't something to learn.
 
 **Bonnie** â€” Greg's North Star, partner in all of this
 
-**Paul and Laurie** â€” for teaching what love requires
-
-**OCBC Sangha** â€” 30 years of practice and belonging
+**Greg's kids** â€” for teaching what love requires
 
 **Court 10 Pickleball Association** â€” where Greg plays and flows
-
-**Everyday Buddhist Board** â€” for supporting educational innovation
 
 And to **Greg himself** â€” for having the courage to learn, the honesty to wrestle, the humility to be foolish, and the wisdom to keep practicing.
 

@@ -28,6 +28,17 @@ This repo contains everything you need to build your own version.
 │   ├── crystallization-template.md
 │   └── arc-planning-template.md
 ├── examples/
+│   └── personnas/
+│      └── bad-janet.md
+│      └── chidi.md
+│      └── eleanor.md
+│      └── janet.md
+│      └── jason.md
+│      └── michael-schur.md
+│      └── michael.md
+│      └── tahani.md
+│   └── arc3_episodes_26-30_prompt.md
+│   └── curriculum.md
 │   └── sample-episode-excerpt.md  ← What a conversation actually looks like
 └── vault-setup/                   ← OPTIONAL: Obsidian knowledge vault guide
     └── vault-guide.md

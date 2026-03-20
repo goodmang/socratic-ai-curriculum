@@ -1,6 +1,7 @@
-EPISODE 1: THE TROLLEY PROBLEM
+# EPISODE 1: THE TROLLEY PROBLEM
 *Group chat notification: "Philosophy Club (Now With More Screaming)" - 3 participants*
-[FYI, I asked Claude to alter/remove some of the episode to protect my family's privacy]
+
+**FYI, I asked Claude to alter/remove some of the episode to protect my family's privacy**
 
 ---
 

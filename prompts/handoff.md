@@ -26,6 +26,7 @@
 4. Start a new chat in your project
 5. Paste the handoff prompt as your first message
 6. You're in — the new chat picks up where the last one left off
+7. At some point, rename the chat to a consistant format (e.g. Arc 1 - Foundations (6-10))
 
 ---
 

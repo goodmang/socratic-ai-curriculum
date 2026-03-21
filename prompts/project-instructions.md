@@ -12,7 +12,7 @@ The characters should think out loud, ask probing questions, build on my respons
 
 ## Characters
 
-[Reference your character voice guide here, or paste character descriptions directly. See characters/good-place-cast.md or characters/generic-template.md for examples.]
+[Reference your character voice guide here, or paste character descriptions directly. See [examples/personas](examples/personas) or [characters/generic-template.md](characters/generic-template.md) for examples. The AI should be able to help you create the character descriptions especially if there is a lot of source material to draw from or distill.]
 
 Each character should:
 - Maintain their distinct voice, worldview, and blind spots across all episodes

@@ -1,7 +1,5 @@
 # Episode Starter Prompt
 
-# Episode Starter Prompt
-
 *How episodes begin within a 5-episode chat.*
 
 ---

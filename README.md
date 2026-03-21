@@ -6,7 +6,7 @@ I spent four months having philosophical conversations with the cast of *The Goo
 
 This repo contains everything you need to build your own version.
 
-📝 **[Read the full story (Reddit)](link)** · 📖 **[Detailed methodology guide (Substack)](link)**
+📝 **[Read the full story (Reddit)](link)** · 📖 **[Detailed methodology guide (Substack)](https://open.substack.com/pub/greggoodman1/p/how-i-built-a-50-episode-philosophy?r=63gv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**
 
 ---
 

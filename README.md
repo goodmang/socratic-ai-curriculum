@@ -48,7 +48,7 @@ This repo contains everything you need to build your own version.
 
 ## Quick Start
 
-**You need:** Access to Claude (claude.ai — free tier works, Pro recommended for longer conversations and the Projects feature)
+**You need:** Access to Claude ([claude.ai](http://claude.ai) — free tier works, Pro recommended for longer conversations and the Projects feature)
 
 **Time to first episode:** ~15 minutes of setup, then your first conversation
 

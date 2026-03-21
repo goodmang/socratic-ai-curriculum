@@ -12,7 +12,7 @@ You don't write the episode opening yourself. At the end of the previous episode
 
 Each 5-episode segment runs in its own chat. The opening of a new chat comes from the handoff prompt — see `prompts/handoff.md`. You paste the AI-generated handoff into a fresh chat and you're in.
 
-For your very first episode ever, do the curriculum design conversation (see `prompts/curriculum-design.md`) in a **separate chat**. Once your arcs and first episodes are planned, start a **new chat** for Episodes 1-5. Ask the AI to generate the opening for Episode 1 based on the curriculum plan.
+For your very first episode ever, do the curriculum design conversation (see [`prompts/curriculum-design.md`](prompts/curriculum-design.md)) in a **separate chat**. Once your arcs and first episodes are planned, start a **new chat** for Episodes 1-5. Ask the AI to generate the opening for Episode 1 based on the curriculum plan.
 
 ### Starting Subsequent Episodes Within a Chat
 
